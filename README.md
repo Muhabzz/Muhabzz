@@ -208,10 +208,9 @@ I am Mohab Nasser, a student and tech enthusiast with a passion for software dev
 
 <br> 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhabzz&show_icons=true&locale=en&layout=compact&theme=tokyonight)
 
 
-<p align="center"><img width="460" height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=alamin-babu&show_icons=true&locale=en&layout=compact&theme=tokyonight"/460/300"></p>
+<p align="center"><img width="460" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhabzz&show_icons=true&locale=en&layout=compact&theme=tokyonight"></p>
 
 <p align="center"><img width="460" height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=alamin-babu&theme=tokyonight&&fire=FF801F&currStreakNum=FFBE69&currStreakLabel=FFBE69"/460/300"></p>
 
