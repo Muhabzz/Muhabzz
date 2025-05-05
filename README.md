@@ -20,12 +20,11 @@ I am Mohab Nasser, a student and tech enthusiast with a passion for software dev
   
 
 
- -  🔭 I’m currently working on something cool 😉
+ - 🔭 I’m currently working for jobs & Internships 
 
-- 👯 I’m looking forward to collaborate on python projects.
+- 📋 I’m looking forward to collaborate on projects.
 
-- 🌱 Learning about Computer Vision and Machine Learning stuff
-
+- 🌱 Learning about Cyber Security and Software Engineering stuff
 
 - 💬 Ask me about anything, I am happy to help, only if the ball is in my court!😉
 
