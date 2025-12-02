@@ -1,4 +1,4 @@
-# <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=red&text=$sudo%20su" width="100%" />
+# <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=C6BBB7&text=$sudo%20su" width="100%" />
 
 <!-- Animated Name & Title Banner -->
 <!--<div align="center">
