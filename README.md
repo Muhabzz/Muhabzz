@@ -113,31 +113,34 @@ $ cat /etc/passwd | grep contact
   </table>
 
 
-
-
-<!-- Animated Divider -->
+<!-- Advanced Security Operations Environment -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+  <h3>🖥️ Security Engineering Environment</h3>
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://www.svgrepo.com/show/330767/kalilinux.svg" width="65" height="65" alt="Kali Linux" />
+        <br /><strong>Kali Linux</strong>
+      </td>
+      <td align="center">
+        <img src="https://parrotsec.org/docs/img/parrot-logo.svg" width="65" height="65" alt="Parrot OS" />
+        <br /><strong>Parrot OS</strong>
+      </td>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="65" height="65" alt="Git" />
+        <br /><strong>Git</strong>
+      </td>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="65" height="65" alt="Docker" />
+        <br /><strong>Docker</strong>
+      </td>
+      <td align="center">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Windows_logo_-_2012.svg" width="65" height="65" alt="Windows" />
+        <br /><strong>Windows 10/11</strong>
+      </td>
+    </tr>
+  </table>
 </div>
-
-<!-- Featured Engineering Projects -->
-
-<!-- Animated Divider -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-</div>
-
-<!-- Enhanced Engineering Metrics Dashboard -->
-
-
-<!-- Comprehensive Engineering Portfolio with Enhanced Visuals -->
-<div align="center">
-  <a href="https://github.com/Muhabzz">
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Muhabzz&theme=github_dark" width="100%" />
-  </a>
-</div>
-
-
 
 
 
