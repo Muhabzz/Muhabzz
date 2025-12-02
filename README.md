@@ -156,17 +156,12 @@ $ cat /etc/passwd | grep contact
 </div>
 
 <!-- Enhanced Engineering Metrics Dashboard -->
-<div align="center">
-  <img src="https://img.shields.io/github/issues-closed/Amr-Khaled-Ahmed/CyberSec-Toolkit?color=0D5F1A&label=Engineering%20Issues%20Resolved" alt="Engineering Issues Resolved" />
-  <img src="https://img.shields.io/github/stars/Amr-Khaled-Ahmed?color=0D5F1A&label=Engineering%20Recognition" alt="Engineering Recognition" />
-  <img src="https://img.shields.io/github/commit-activity/m/Amr-Khaled-Ahmed/CyberSec-Toolkit?color=0D5F1A&label=Engineering%20Development%20Activity" alt="Engineering Development Activity" />
-</div>
 
 
 <!-- Comprehensive Engineering Portfolio with Enhanced Visuals -->
 <div align="center">
   <a href="https://github.com/Muhabzz">
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Amr-Khaled-Ahmed&theme=github_dark" width="100%" />
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Muhabzz&theme=github_dark" width="100%" />
   </a>
 </div>
 
