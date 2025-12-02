@@ -113,34 +113,7 @@ $ cat /etc/passwd | grep contact
   </table>
 
 
-<!-- Advanced Security Operations Environment -->
-<div align="center">
-  <h3>🖥️ Security Engineering Environment</h3>
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://www.svgrepo.com/show/330767/kalilinux.svg" width="65" height="65" alt="Kali Linux" />
-        <br /><strong>Kali Linux</strong>
-      </td>
-      <td align="center">
-        <img src="https://parrotsec.org/docs/img/parrot-logo.svg" width="65" height="65" alt="Parrot OS" />
-        <br /><strong>Parrot OS</strong>
-      </td>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="65" height="65" alt="Git" />
-        <br /><strong>Git</strong>
-      </td>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="65" height="65" alt="Docker" />
-        <br /><strong>Docker</strong>
-      </td>
-      <td align="center">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Windows_logo_-_2012.svg" width="65" height="65" alt="Windows" />
-        <br /><strong>Windows 10/11</strong>
-      </td>
-    </tr>
-  </table>
-</div>
+
 
 <!-- Animated Divider -->
 <div align="center">
