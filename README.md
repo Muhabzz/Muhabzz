@@ -7,9 +7,7 @@
 </p>
 
 <!-- Visual Matrix Rain Effect -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" />
-</div>
+
 
 <!-- Terminal-style Introduction with Advanced Engineering Focus -->
 <div align="left">
