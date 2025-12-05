@@ -42,25 +42,6 @@ $ cat /etc/passwd | grep contact
 ```
 
 
-<!-- Advanced Security Operations Terminal -->
-## Advanced Security Engineering Terminal 💻
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=2D8F3A&center=true&vCenter=true&width=700&lines=objdump+-d+-M+intel+binary.exe+%7C+grep+-A5+main;radare2+-A+-q+-c+'pdf+@+main'+target.bin;gdb+-q+--batch+-ex+'disas+main'+./program;xxd+-l+256+suspicious.bin+%7C+head+-20;strings+-a+-t+x+malware.exe+%7C+grep+-i+key;ida64+-A+-S'custom_analysis.py'+sample.exe;ghidra_headless+/tmp+project+-import+binary.exe;volatility3+-f+memory.dump+windows.pstree;binwalk+--entropy+--signature+firmware.bin;./custom_tool+--analyze+--output=report.json" alt="Advanced Engineering Commands" />
-</div>
-
-<!-- Dynamic 3D Contribution -->
-<div align="center">
-  <a href="https://skyline.github.com/Amr-Khaled-Ahmed/2024" target="_blank">
-    <img src="https://img.shields.io/badge/View_My-GitHub_Skyline_3D_Engineering_Graph-0D5F1A?style=for-the-badge&logo=github" alt="GitHub Skyline" />
-  </a>
-</div>
-
-<div align="center">
-  <img alt="Skyline" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
-</div>
-
-
-
 <!-- Engineering Binary Message with Animation -->
 <div align="center">
   <h3>
