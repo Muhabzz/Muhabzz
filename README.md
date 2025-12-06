@@ -23,7 +23,7 @@ $ echo $PATH | tr ':' '\n' | grep -E "(reverse|tools|compiler)"
 > /opt/reverse-engineering-suite/bin
 > /opt/custom-security-tools/bin
 $ cat /etc/passwd | grep contact
-> github:Muhabzz:x:1000:1000:Cybersecurity Engineer:/home/amr:/bin/bash
+> github:Muhabzz:x:1000:1000:Cybersecurity Engineer:/home/muhabz:/bin/bash
 ```
 
 </div>
