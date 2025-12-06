@@ -29,10 +29,6 @@ $ cat /etc/passwd | grep contact
 </div>
 
 
-
-
-
-
 ```diff
 + Cybersecurity Engineering:
 ! Security Tool Development | Vulnerability Assessment | Penetration Testing | Automation Scripts
