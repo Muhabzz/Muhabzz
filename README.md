@@ -63,7 +63,7 @@ $ cat /etc/passwd | grep contact
 
 <!-- Animated Footer with Enhanced Message -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=C6BBB7&text=Security%20Engineer,%20Penetration%20Testing,%20Build%20the%20Future&fontSize=30"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=C6BBB7&text=Security%20Engineer,%20Penetration%20Testing,%20Build%20the%20Future&fontSize=30"/>
 </div>
 
 
